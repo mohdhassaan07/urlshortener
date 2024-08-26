@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "figlet": "^1.7.0",
+    "mongoose": "^8.1.1",
+    "nanoid": "^5.0.7",
+    "shortid": "^2.2.16",
+    "ssid": "^0.0.4"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
